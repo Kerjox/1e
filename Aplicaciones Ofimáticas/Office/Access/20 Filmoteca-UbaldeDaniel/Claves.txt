@@ -1,0 +1,13 @@
+﻿##Base de datos diseñada por Daniel Ubalde; Curso 18-19; 3ª Evaluación.
+##Claves de inicio de sesión Filmoteca
+
+ Users.		 	  Pass.
+admin			admin			##Administrador: Gestion de toda la base de datos.
+encargado		encargado		##Jefe: Puede añadir usuarios.
+daniel			IVSZ1e12		##Empleado: Manejo de la aplicación.
+user			user			##Empleado
+sonia			sonia			##Administrador
+
+			##### Daniel Ubalde #####
+			 ###	   ###	     ###
+			   #	  #####	     #
